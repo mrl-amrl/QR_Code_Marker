@@ -1,0 +1,39 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/mrl/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/mrl/catkin_ws/src/navigation/amcl/include/**",
+        "/home/mrl/catkin_ws/src/qrcode_detection/include/**",
+        "/home/mrl/catkin_ws/src/navigation/base_local_planner/include/**",
+        "/home/mrl/catkin_ws/src/navigation/carrot_planner/include/**",
+        "/home/mrl/catkin_ws/src/navigation/clear_costmap_recovery/include/**",
+        "/home/mrl/catkin_ws/src/navigation/costmap_2d/include/**",
+        "/home/mrl/catkin_ws/src/navigation/dwa_local_planner/include/**",
+        "/home/mrl/catkin_ws/src/navigation/global_planner/include/**",
+        "/home/mrl/catkin_ws/src/hector_slam/hector_map_tools/include/**",
+        "/home/mrl/catkin_ws/src/hector_slam/hector_mapping/include/**",
+        "/home/mrl/catkin_ws/src/hector_slam/hector_marker_drawing/include/**",
+        "/home/mrl/catkin_ws/src/husky/husky_base/include/**",
+        "/home/mrl/catkin_ws/src/navigation/map_server/include/**",
+        "/home/mrl/catkin_ws/src/navigation/move_base/include/**",
+        "/home/mrl/catkin_ws/src/navigation/move_slow_and_clear/include/**",
+        "/home/mrl/catkin_ws/src/navigation/nav_core/include/**",
+        "/home/mrl/catkin_ws/src/navigation/navfn/include/**",
+        "/home/mrl/catkin_ws/src/navigation/rotate_recovery/include/**",
+        "/home/mrl/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/mrl/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/mrl/catkin_ws/src/viana_msq/include/**",
+        "/home/mrl/catkin_ws/src/navigation/voxel_grid/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
