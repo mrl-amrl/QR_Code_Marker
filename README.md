@@ -3,7 +3,7 @@
 ## Maintaineres :
 #### misaq salami
 #### arshia nozarnezhad
-#### mohamadjavad jafari
+#### mohamadjavad jafari ( Javadomnia@hotmail.com )
 
  ## This project containes 3 part : 
  1. simulation
